@@ -1,0 +1,604 @@
+C:\Users\joshua.yasol\source\repos\CARS\CARS\bin\Debug\CARS.exe.config
+C:\Users\joshua.yasol\source\repos\CARS\CARS\bin\Debug\CARS.exe
+C:\Users\joshua.yasol\source\repos\CARS\CARS\bin\Debug\CARS.pdb
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.csproj.AssemblyReference.cache
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.Form1.resources
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.Properties.Resources.resources
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.csproj.GenerateResource.cache
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.csproj.CoreCompileInputs.cache
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.exe
+C:\Users\joshua.yasol\source\repos\CARS\CARS\obj\Debug\CARS.pdb
+Z:\Projects\CARS\CARS\bin\Debug\CARS.exe.config
+Z:\Projects\CARS\CARS\bin\Debug\CARS.exe.manifest
+Z:\Projects\CARS\CARS\bin\Debug\CARS.application
+Z:\Projects\CARS\CARS\bin\Debug\CARS.exe
+Z:\Projects\CARS\CARS\bin\Debug\CARS.pdb
+Z:\Projects\CARS\CARS\bin\Debug\Newtonsoft.Json.dll
+Z:\Projects\CARS\CARS\bin\Debug\Newtonsoft.Json.xml
+Z:\Projects\CARS\CARS\obj\Debug\CARS.csproj.SuggestedBindingRedirects.cache
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Inquiry.frm_inventory_management_filter.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_warehouse_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_create_po.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation_parts.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_parts_image_view.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_loc_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_parts_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_rr_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.PORecieving.frm_po_recieving_po_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_below_cost.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_reason.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_discount.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_free_check.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SupplierQuotation.frm_supplier_quotation.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_sales_return_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode_backup.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_lotno_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_warehouse_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_inquiry.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_inventory_management.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_audit_trail.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_inquiry.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_sales_order_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_vehicle_make.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_city.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_encodeNew.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_position.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_description.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_brand.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_employee.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_term.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_unit_measurement.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_bin_location.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_department.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_location.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_province.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_reason.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_region.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_suki_card.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_warehouse.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_cf_sales_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_daily_transaction_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_inventory_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_monthly_inventory_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_return_report.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_transmittal.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_billing_statement.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_corporation_finance_adjustment.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_beginning_balance.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_deposits.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_delivery_receipt_verification.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_taking.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_payment_entry.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_generation.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_monitoring.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receipt_generation.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_entry.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode_to.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_parts_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_archive.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_company.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_count_sheet.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_partssynch.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload_reports.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskDiscountSchemeTextbox.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskTextbox.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Customized_Components.RefinedCombobox.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Customized_Components.RifinedCustomTextbox.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.FrmCarsBeta.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.FrmCarsAlpha.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.FrmDashBoard.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Properties.Resources.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.csproj.GenerateResource.cache
+Z:\Projects\CARS\CARS\obj\Debug\CARS.csproj.CoreCompileInputs.cache
+Z:\Projects\CARS\CARS\obj\Debug\CARS.exe.manifest
+Z:\Projects\CARS\CARS\obj\Debug\CARS.application
+Z:\Projects\CARS\CARS\obj\Debug\CARS.csproj.CopyComplete
+Z:\Projects\CARS\CARS\obj\Debug\CARS.exe
+Z:\Projects\CARS\CARS\obj\Debug\CARS.pdb
+Z:\Projects\CARS\CARS\obj\Debug\CARS.csproj.AssemblyReference.cache
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_encode.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.csproj.AssemblyReference.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Inquiry.frm_inventory_management_filter.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_create_po.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_parts_image_view.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_loc_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_parts_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_rr_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.PORecieving.frm_po_recieving_po_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_add_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_parts_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_reason_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receive_report_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receiving_location_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_below_cost.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_reason.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_discount.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_free_check.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SupplierQuotation.frm_supplier_quotation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_sales_return_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode_backup.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_lotno_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_inquiry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_inventory_management.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_audit_trail.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_inquiry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_sales_order_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_vehicle_make.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_city.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_encodeNew.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_position.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_description.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_brand.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_employee.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_term.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_unit_measurement.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_bin_location.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_department.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_location.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_province.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_reason.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_region.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_suki_card.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_warehouse.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_cf_sales_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_daily_transaction_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_inventory_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_monthly_inventory_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_return_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_transmittal.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_billing_statement.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_corporation_finance_adjustment.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_beginning_balance.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_deposits.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_delivery_receipt_verification.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_taking.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_payment_entry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_generation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_monitoring.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receipt_generation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_entry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode_to.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_company.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_count_sheet.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_partssynch.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload_reports.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskDiscountSchemeTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Customized_Components.RefinedCombobox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Customized_Components.RifinedCustomTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.FrmCarsBeta.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.FrmCarsAlpha.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.FrmDashBoard.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Properties.Resources.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.csproj.GenerateResource.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.csproj.CoreCompileInputs.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\CARS.exe.config
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\CARS.exe.manifest
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\CARS.application
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\CARS.exe
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\CARS.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\Newtonsoft.Json.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\Newtonsoft.Json.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.exe.manifest
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.application
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.csproj.Up2Date
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.exe
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Transactions.PurchaseReturn.frm_purchase_return.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Buffers.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Memory.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Net.Http.Formatting.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Numerics.Vectors.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Buffers.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Memory.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Net.Http.Formatting.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Numerics.Vectors.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_brand_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_desc_selectin.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_part_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_rr_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS 2024_07_08 Justins version\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_supplier_selection.resources
+Z:\Projects\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Buffers.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Memory.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Net.Http.Formatting.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Numerics.Vectors.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Projects\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Projects\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.pdb
+Z:\Projects\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Buffers.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Memory.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Net.Http.Formatting.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Numerics.Vectors.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Projects\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_brand_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_desc_selectin.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_part_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_rr_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_supplier_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_add_parts.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_parts_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_reason_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receive_report_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receiving_location_selection.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Transactions.PurchaseReturn.frm_purchase_return.resources
+Z:\Projects\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_log.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\CARS.exe.config
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\CARS.exe.manifest
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\CARS.application
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\CARS.exe
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\CARS.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Newtonsoft.Json.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Buffers.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Memory.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Net.Http.Formatting.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Numerics.Vectors.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Newtonsoft.Json.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Buffers.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Memory.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Net.Http.Formatting.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Numerics.Vectors.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.csproj.AssemblyReference.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Inquiry.frm_inventory_management_filter.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_brand_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_desc_selectin.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_part_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_rr_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_supplier_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_create_po.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_parts_image_view.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_loc_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_parts_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_rr_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.PORecieving.frm_po_recieving_po_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_add_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_parts_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_reason_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receive_report_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receiving_location_selection.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_below_cost.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_reason.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_discount.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_free_check.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SupplierQuotation.frm_supplier_quotation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_sales_return_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode_backup.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_lotno_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_inquiry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_inventory_management.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_audit_trail.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_inquiry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_sales_order_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_vehicle_make.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_city.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_encodeNew.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_position.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_description.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_brand.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_employee.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_term.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_unit_measurement.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_bin_location.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_department.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_location.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_province.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_reason.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_region.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_suki_card.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_warehouse.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_cf_sales_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_daily_transaction_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_inventory_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_monthly_inventory_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_return_report.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_transmittal.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_billing_statement.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_corporation_finance_adjustment.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_beginning_balance.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_deposits.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_delivery_receipt_verification.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_taking.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_payment_entry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_generation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_monitoring.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.PurchaseReturn.frm_purchase_return.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receipt_generation.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_entry.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode_to.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_parts_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_archive.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_company.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_count_sheet.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_partssynch.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_log.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_encode.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload_reports.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskDiscountSchemeTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Customized_Components.RefinedCombobox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Customized_Components.RifinedCustomTextbox.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.FrmCarsBeta.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.FrmCarsAlpha.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.FrmDashBoard.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Properties.Resources.resources
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.csproj.GenerateResource.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.csproj.CoreCompileInputs.cache
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.exe.manifest
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.application
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.csproj.Up2Date
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.exe
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.pdb
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\ClosedXML.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\DocumentFormat.OpenXml.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\ExcelNumberFormat.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\Irony.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\SixLabors.Fonts.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.IO.Packaging.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\XLParser.dll
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\ClosedXML.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\DocumentFormat.OpenXml.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\ExcelNumberFormat.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\SixLabors.Fonts.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\bin\Debug\System.IO.Packaging.xml
+Y:\Development\PDDC#\From PDDE\Cherry Picking Files\Cream Pies Filling\CARS New Dawn\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_excel_upload.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\CARS.exe.config
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\CARS.exe.manifest
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\CARS.application
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\CARS.exe
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\CARS.pdb
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\ClosedXML.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\ExcelNumberFormat.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Irony.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Newtonsoft.Json.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\SixLabors.Fonts.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Buffers.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.IO.Packaging.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Memory.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Net.Http.Formatting.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Numerics.Vectors.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\XLParser.dll
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\ClosedXML.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\ExcelNumberFormat.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Newtonsoft.Json.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.pdb
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\SixLabors.Fonts.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Buffers.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.IO.Packaging.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Memory.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Net.Http.Formatting.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Numerics.Vectors.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.csproj.AssemblyReference.cache
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Inquiry.frm_inventory_management_filter.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_brand_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_desc_selectin.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_part_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_rr_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Reports.Receive_Report.frm_receiving_report_supplier_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_warehouse_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_create_po.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation_parts.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_parts_image_view.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_loc_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_parts_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_receiving_rr_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.PORecieving.frm_po_recieving_po_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_add_parts.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Order_Taking.frm_order_taking_excel_upload.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_parts_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_reason_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receive_report_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.Purchase_Return.frm_purchase_return_receiving_location_selection.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_below_cost.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_reason.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_discount.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_free_check.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SupplierQuotation.frm_supplier_quotation.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_sales_return_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode_backup.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_lotno_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment_warehouse_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockAdjustment.frm_stock_adjustment.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_inquiry.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_inventory_management.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_audit_trail.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.BeginningBalance.frm_beginning_balance.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_inquiry.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_sales_order_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_vehicle_make.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_oem.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_city.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts_encodeNew.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_position.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_description.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_brand.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_employee.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_term.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_unit_measurement.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_bin_location.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_customer.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_department.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_location.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_parts.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_province.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_reason.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_region.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_suki_card.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_supplier.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_warehouse.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_cf_sales_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_daily_transaction_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_inventory_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_monthly_inventory_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_sales_return_report.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_transmittal.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_billing_statement.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_corporation_finance_adjustment.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_beginning_balance.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_customer_deposits.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_delivery_receipt_verification.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_consolidation.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_order_taking.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_payment_entry.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_generation.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_po_monitoring.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_price_management.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.PurchaseReturn.frm_purchase_return.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receipt_generation.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receiving.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesOrder.frm_sales_order_entry.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.SalesReturn.frm_sales_return.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode_to.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_warehouse_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_parts_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer_archive.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.StockTransfer.frm_stock_transfer.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_company.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_count_sheet.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_partssynch.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_log.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile_encode.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_upload_reports.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Utilities.frm_user_profile.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskDiscountSchemeTextbox.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Customized_Components.CustomMaskTextbox.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Customized_Components.RefinedCombobox.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Customized_Components.RifinedCustomTextbox.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.FrmCarsBeta.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.FrmCarsAlpha.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.FrmDashBoard.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Properties.Resources.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.csproj.GenerateResource.cache
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.csproj.CoreCompileInputs.cache
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.exe.manifest
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.application
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.csproj.Up2Date
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.exe
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.pdb
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Login.Login.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Transactions.frm_receipt_generation_invoice.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_promo.resources
+D:\Josh Y\Projects\Cars 19-07-2024\CARS\CARS\obj\Debug\CARS.Components.Masterfiles.frm_promo_encode.resources
